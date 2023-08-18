@@ -1,2 +1,2 @@
-# Angular-Assinments
+# Angular-Assignments Projects
 This repository contains angular projects.
